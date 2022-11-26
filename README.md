@@ -114,3 +114,9 @@ Below is the speaking animation.
 
 - CustomizableJarvis.exe exceeds GitHub Limit ie, 35 MB.
 - In-order to test run the debuged version of JARVIS, Contact me through Mail.
+## Connect with me:
+
+[![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hari-odrdl)
+[![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__the.fallen.angels/)
+
+### If You Love My Works, Do Like To Follow And Support💖
