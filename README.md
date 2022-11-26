@@ -82,8 +82,15 @@ To deploy Jarvis,
 
 ## Demo Screenshots
 
+#### Intro In GUI
+
 ![App Screenshot](https://github.com/ODRDLabs/Project-JARVIS/blob/main/Jarvis_Mark-II_Screenshots/JARVIS_Loading_Screen.png)
 
 #### New Intro Video
 
 ![App Screenshot](https://github.com/ODRDLabs/Project-JARVIS/blob/main/Jarvis_Mark-II_Screenshots/Intro.gif)
+
+## Main Window (Home Screen)
+
+![App Screenshot](https://github.com/ODRDLabs/Project-JARVIS/blob/main/Jarvis_Mark-II_Screenshots/Jarvis_Home_Screen.jpg)
+
