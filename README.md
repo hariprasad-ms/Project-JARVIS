@@ -105,3 +105,5 @@ The home screen of JARVIS contains the following Upgrades :
 - A language selector button.
 - An equalizer that displays audio input levels.
 - A settings button which opens up JARVIS's customization window (Same As MARK I)
+
+[![Watch the video](https://github.com/ODRDLabs/Project-JARVIS/blob/main/Jarvis_Mark-II_Screenshots/Speak_Anim.mp4)
