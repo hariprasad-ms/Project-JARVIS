@@ -86,11 +86,22 @@ To deploy Jarvis,
 
 ![App Screenshot](https://github.com/ODRDLabs/Project-JARVIS/blob/main/Jarvis_Mark-II_Screenshots/JARVIS_Loading_Screen.png)
 
+This is how the intro video fits into JARVIS's GUI at the time of startup.
+
 #### New Intro Video
 
 ![App Screenshot](https://github.com/ODRDLabs/Project-JARVIS/blob/main/Jarvis_Mark-II_Screenshots/Intro.gif)
+
+This video was created using After effects and color graded using premiere pro.
 
 ## Main Window (Home Screen)
 
 ![App Screenshot](https://github.com/ODRDLabs/Project-JARVIS/blob/main/Jarvis_Mark-II_Screenshots/Jarvis_Home_Screen.jpg)
 
+The home screen of JARVIS contains the following Upgrades : 
+
+- A borderless window.
+- Custom close and minimize buttons.
+- A language selector button.
+- An equalizer that displays audio input levels.
+- A settings button which opens up JARVIS's customization window (Same As MARK I)
