@@ -84,3 +84,6 @@ To deploy Jarvis,
 
 ![App Screenshot](https://github.com/ODRDLabs/Project-JARVIS/blob/main/Jarvis_Mark-II_Screenshots/JARVIS_Loading_Screen.png)
 
+#### New Intro Video
+
+![App Screenshot](https://github.com/ODRDLabs/Project-JARVIS/blob/main/Jarvis_Mark-II_Screenshots/Intro.gif)
