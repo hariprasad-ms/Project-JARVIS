@@ -110,3 +110,7 @@ The home screen of JARVIS contains the following Upgrades :
 Below is the speaking animation.
 
 ![App Screenshot](https://github.com/ODRDLabs/Project-JARVIS/blob/main/Jarvis_Mark-II_Screenshots/Speak_Anim.gif)
+## Note
+
+- CustomizableJarvis.exe exceeds GitHub Limit ie, 35 MB.
+- In-order to test run the debuged version of JARVIS, Contact me through Mail.
